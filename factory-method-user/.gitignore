@@ -1,0 +1,17 @@
+# Ignore file .env
+.env
+
+# Ignore thư mục node_modules
+node_modules/
+
+# Ignore file .idea
+.idea/
+
+# Ignore file .vscode
+.vscode/
+
+# Ignore file DS_Store (trên macOS)
+.DS_Store
+
+# Ignore file Thumbs.db (trên Windows)
+Thumbs.db
