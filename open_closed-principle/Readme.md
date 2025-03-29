@@ -1,5 +1,5 @@
 
-Ý tưởng là làm sao để thêm hình mới (như tam giác) mà không phải đụng chạm gì đến hàm `printAreas` – nghe hay ho quá đúng không =)))
+# Ý tưởng là làm sao để thêm hình mới (như tam giác) mà không phải đụng chạm gì đến hàm `printAreas` – nghe hay ho quá đúng không =)))
 
 ## Câu chuyện bắt đầu từ đâu? 
 
