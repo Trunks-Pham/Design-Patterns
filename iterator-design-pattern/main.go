@@ -60,7 +60,7 @@ func main() {
 
 	iterator := collection.CreateIterator()
 
-	fmt.Println("Danh sách các giao dịch:")
+	fmt.Println("Danh sách các con nợ của Thảo")
 	for iterator.HasNext() {
 		payment := iterator.Next()
 		fmt.Printf("Đòi nợ người dùng: %d, số tiền bị nó thiếu: %.2f\n", payment.ID, payment.Amount)
