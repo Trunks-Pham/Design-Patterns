@@ -15,7 +15,7 @@ Mình đã nghĩ ra một cách để thêm tam giác mà không sửa hàm `pri
 - Tạo một phương thức `CalculateArea()` để tính diện tích trước cho tất cả các hình (bao gồm tam giác) và lưu vào `Area`.
 - Vì `printAreas` không xử lý tam giác, mình in diện tích của tam giác riêng trước khi gọi `printAreas`.
 
-Code đây nè trong Before á =)))
+Code trong Before á =)))
 
 **Tự bình phẩm một chútttt**: Ăn yang quá mom
 
