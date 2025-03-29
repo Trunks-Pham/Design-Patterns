@@ -21,7 +21,7 @@ Code đây nè trong Before á =)))
 
 ---
 
-### Cách 2: Làm đúng chuẩn OCP (Sửa `printAreas` cho đẹp luôn!)
+### Làm đúng chuẩn OCP (Sửa `printAreas` cho đẹp luôn!)
 
 Thực ra, để áp dụng OCP đúng cách, ta nên sửa lại hàm `printAreas` để nó không phụ thuộc vào `if-else`. Mình dùng một **interface** để mỗi hình tự tính diện tích của nó. Như thế, khi thêm hình mới, `printAreas` không cần sửa gì cả – đúng chuẩn OCP luôn!
 
