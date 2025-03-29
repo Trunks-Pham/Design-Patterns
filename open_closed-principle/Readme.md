@@ -1,9 +1,9 @@
 
-# Ý tưởng là làm sao để thêm hình mới (như tam giác) mà không phải đụng chạm gì đến hàm `printAreas` – nghe hay ho quá đúng không =)))
+# Ý tưởng là làm sao để thêm hình mới (như tam giác) mà không phải đụng chạm gì đến hàm `printAreas` – nghe hay ho quá đúng không =)))))))))))))))))))))))
 
 ## Câu chuyện bắt đầu từ đâu? 
 
-Ban đầu, thầy Trọng có một đoạn code tính diện tích hình tròn và hình vuông đưa cho Minh Thảo. Nhưng mà, nó dùng `if-else` trong hàm `printAreas` để tính diện tích dựa trên `shape.Type`. Vấn đề là nếu mình muốn thêm tam giác, mình phải sửa hàm `printAreas` – mà như thế thì vi phạm yêu cầuuu mất rồi! Thế là mình phải nghĩ cách "lách luật" một chút! 
+Ban đầu, thầy Trọng có một đoạn code tính diện tích hình tròn và hình vuông đưa cho tuiiii. Nhưng mà, nó dùng `if-else` trong hàm `printAreas` để tính diện tích dựa trên `shape.Type`. Vấn đề là nếu mình muốn thêm tam giác, mình phải sửa hàm `printAreas` – mà như thế thì vi phạm yêu cầuuu mất rồi! Thế là mình phải nghĩ cách "lách luật" một chút! 
 
 ## Minh Thảo đã làm gì?
 
